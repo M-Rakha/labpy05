@@ -28,6 +28,17 @@ Fungsi ini digunakan untuk mengubah data mahasiswa berdasarkan nomor yang dipili
 - Jika nomor tidak valid, tampilkan pesan "Data tidak ditemukan".
 - Jika valid, memperbarui data dengan input baru.
 
+![gambar](https://github.com/M-Rakha/labpy05/blob/f5c52db95fcfe0de07761890a5dbc60f04eb1132/Cuplikan%20layar%202024-11-25%20194015.png)
+
+## Step 5 : Fungsi hapus_data
+Fungsi ini menghapus data mahasiswa dari data_nilai yang sudah tercantumkan datanya pada tabel. outputnya akan menampilkan daftar data dan meminta nomor data yang akan dihapus. Jika nomor valid, data dihapus dengan del :
+
+
+
+
+
+
+
 
 
 
