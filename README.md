@@ -128,5 +128,10 @@ Setelah dihapus kita akan coba lihat daftar/data nilai mahasiswa yang sudah diha
 
 Jika semua data atau program input sudah selesai semua, user dapat menginputkan K untuk keluar dari progam :
 
+![gambar](https://github.com/M-Rakha/labpy05/blob/b4fd51611b3d365595cd6e7f8357fbbe26a16e82/Cuplikan%20layar%202024-11-25%20201412.png)
+
+# FLOWCHART DAFTAR NILAI
+
+
 
 
