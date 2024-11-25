@@ -132,6 +132,41 @@ Jika semua data atau program input sudah selesai semua, user dapat menginputkan 
 
 # FLOWCHART DAFTAR NILAI
 
+![gambar](https://github.com/M-Rakha/labpy05/blob/b3d2e07f536e06298771dbb6eb961f84ddf50414/17%20(1).png)
 
+### Step 1 :
+Titik mulai sebuah program atau alur.
+
+### Step 2 :
+lalu lakukan inisialisasi dengan menampilkan menu yang tersedia.
+
+### Step 3 :
+Inputkan code menu yang ingin dilakukan, setiap code berisi [L]ihat, [T]ambah, [U]bah, [H]apus, [C]ari, [K]eluar.
+
+### Step 4 :
+Dalam kasus ini semua kemgkinan dapat terjadi, kondisi yang diperlukan sesuai apa yang akan diinoutkan user.
+
+- Jika [L]ihat, maka user akan di tampilkan sebuah tabel dari daftar nilai, namun jika tabel belum ada isi/kosong maka akan tampil tidak ada data, jika ada maka ditampilkan sebuah data nilai mahasiswa. Setelah tampilkan data maka akan kembali menuju inisialisasi menu.
+
+- Jika [T]ambah, user diminta memasukan sebuah data yang berupa :
+
+- NIM
+- Nama
+- Nilai Tugas
+- Nilai UTS
+- Nilai UAS
+Lalu User akan diarahkan kembali ke inisialiasi menu.
+
+- Jika [U]bah, sama dengan [L]ihat jika tidak ada data nilai maka akan tampil tidak ada data nilai namun [U]bah kalau ada data nilai user diminta menginputkan Nomor urut yang akan diubah, setelah itu diminta untuk mengisi atau menginputkan data valid yang diubah. Setelah itu user kembali ke inisialisasi menu.
+
+- Jika [C]ari, user diminta memasukan nama yang dicari, setelah itu maka akan ditampilkan tabel daftar nilai mahasiswa. Setelah itu kembali ke inisialisasi menu.
+
+- Jika [H]apus, user akan ditampilkan daftar nilai lalu diminta memasukan sebuah nomor yang ingin dihapus dari daftar. Setelah itu kembalu ke inisialisasi menu.
+
+- jika [K]eluar, User akan keluar program dan program akan berhenti.
+
+# KESIMPULAN
+
+Dengan membuat code program daftar nilai ini saya pribadi dapat mengambil pelajaran, kita mampu membuat sebuah program sederhana untuk membuatkan list yang berisikan dictionary sebagai element yang membantu pada Laporan Praktikum kali ini. Selain itu, ada nya flowchart yang dibuat dengan banyak nya perulangan tapi tetap dengan konsep harus ada perhentian, karena sebuah program harus memiliki sebuah titik berhenti.
 
 
