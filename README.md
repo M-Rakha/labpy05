@@ -110,6 +110,13 @@ Lalu, kita akan coba lihat kembali pada tabel dengan menginputkan L untuk lihat 
 
 Kondisi keenam kita ingin mencari sebuah data nilai seorang mahasiswa namun karena banyak nya data mungkin membuat kita tidak tau dimana letak nya, namun dengan menginputkan C sebagai perintah untuk mencari akan memudahkan user, setelah menginputkan C user diminta memasukan nama yang ingin dicari, setelah sudah maka akan muncul nama tersebut dalam tabel :
 
+![gambar](https://github.com/M-Rakha/labpy05/blob/6ca280516d9244e344ede48a84b41ddb51b83dfb/Cuplikan%20layar%202024-11-25%20200429.png)
+
+### Case 7 :
+
+Kondisi ketujuh, kita mencoba menghapus sebuah data nilai mahasiswa dengan menginputkan H sebagai hapus user diminta memasukan sebuah nomor urut yang akan dihapus data nilai mahasiswa :
+
+
 
 
 
