@@ -41,7 +41,20 @@ Fungsi ini menghapus data mahasiswa dari data_nilai yang sudah tercantumkan data
 
 Fungsi ini mencari data mahasiswa berdasarkan nama yang sudah tertera/data pada tabel data dengan menggunakan list comprehension untuk mencari nama yang cocok (case-insensitive), jika ditemukan akan menampilkan data mahasiswa jika tidak, menampilkan pesan "Data tidak ditemukan" :
 
+![gambar](https://github.com/M-Rakha/labpy05/blob/f84fd4f15cef2f3f69dd619a864d1dbd1db86b38/Cuplikan%20layar%202024-11-25%20194529.png)
 
+## Step 7 : Main Loop
+
+Loop ini merupakan antarmuka utama program selanjutnya akan menampilkan menu pilihan berdasarkan input pengguna, pilihannya yaitu:
+
+- L: Memanggil lihat_data.
+- T: Memanggil tambah_data.
+- U: Memanggil ubah_data.
+- H: Memanggil hapus_data.
+- C: Memanggil cari_data.
+- K: Keluar dari program.
+
+Jika input tidak valid, menampilkan pesan "Menu tidak valid".
 
 
 
