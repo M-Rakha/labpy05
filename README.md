@@ -56,6 +56,18 @@ Loop ini merupakan antarmuka utama program selanjutnya akan menampilkan menu pil
 
 Jika input tidak valid, menampilkan pesan "Menu tidak valid".
 
+![gambar](https://github.com/M-Rakha/labpy05/blob/d542acf48427c0c11baadde9e78ae7ce998d6ade/Cuplikan%20layar%202024-11-25%20194809.png)
+
+## Step 8 : Run Program
+
+Tahap akhir adalah uji coba code program yang sudah dibuat dengan mencoba berbagai kemungkinan yang ada.
+
+### Case 1 :
+
+Kondisi pertama kita akan coba melihat tabel dengan inputkan L tampa menambahkan data/masih kosong, maka akan ditampilkan isi tabel masih belum ada datanya :
+
+
+
 
 
 
