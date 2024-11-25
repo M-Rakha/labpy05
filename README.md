@@ -23,6 +23,7 @@ Fungsi ini digunakan untuk menambahkan data nilai mahasiswa ke dalam data_nilai.
 ![gambar](https://github.com/M-Rakha/labpy05/blob/36c1e66ba5fef3613451105ab51c4826edfabc8b/Cuplikan%20layar%202024-11-25%20193541.png)
 
 ## Step 4 : Fungsi ubah_data
+
 Fungsi ini digunakan untuk mengubah data mahasiswa berdasarkan nomor yang dipilih menampilkan data mahasiswa dengan lihat_data serta meminta pengguna memilih nomor data yang ingin diubah, hal ini mencakup semua data dari NIM, Nama, Nilai Tugas, Nilai UTS, dan Nilai UAS yang diubah, namun ada 2 kondisi dalam kasus ini :
 
 - Jika nomor tidak valid, tampilkan pesan "Data tidak ditemukan".
@@ -31,11 +32,14 @@ Fungsi ini digunakan untuk mengubah data mahasiswa berdasarkan nomor yang dipili
 ![gambar](https://github.com/M-Rakha/labpy05/blob/f5c52db95fcfe0de07761890a5dbc60f04eb1132/Cuplikan%20layar%202024-11-25%20194015.png)
 
 ## Step 5 : Fungsi hapus_data
+
 Fungsi ini menghapus data mahasiswa dari data_nilai yang sudah tercantumkan datanya pada tabel. outputnya akan menampilkan daftar data dan meminta nomor data yang akan dihapus. Jika nomor valid, data dihapus dengan del :
 
+![gambar](https://github.com/M-Rakha/labpy05/blob/b17643c0c968c2b67bb33b7a21cc711aaa21c71d/Cuplikan%20layar%202024-11-25%20194234.png)
 
+## Step 6 : Fungsi cari_data
 
-
+Fungsi ini mencari data mahasiswa berdasarkan nama yang sudah tertera/data pada tabel data dengan menggunakan list comprehension untuk mencari nama yang cocok (case-insensitive), jika ditemukan akan menampilkan data mahasiswa jika tidak, menampilkan pesan "Data tidak ditemukan" :
 
 
 
