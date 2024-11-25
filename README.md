@@ -79,7 +79,11 @@ Tambahkan data nilai :
 - Nilai UTS : 85
 - Nilai UAS : 79
 
+![gambar](https://github.com/M-Rakha/labpy05/blob/0778b8221a20fecceb73651ec8415018fbe05db4/Cuplikan%20layar%202024-11-25%20195635.png)
 
+### Case 3 :
+
+Selanjutnya, kondisi ketiga kembali dengan menginputkan L untuk melihat daftar nilai pada tabel, dari kondisi sebelumnya yang sudah menambahkan data nilai maka akan terlihat pada isi tabel :
 
 
 
