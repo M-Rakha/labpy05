@@ -85,5 +85,21 @@ Tambahkan data nilai :
 
 Selanjutnya, kondisi ketiga kembali dengan menginputkan L untuk melihat daftar nilai pada tabel, dari kondisi sebelumnya yang sudah menambahkan data nilai maka akan terlihat pada isi tabel :
 
+![gambar](https://github.com/M-Rakha/labpy05/blob/f71a23a568140afe523dc0edb1aa9203139cef80/Cuplikan%20layar%202024-11-25%20195904.png)
+
+### Case 4 :
+
+Masuk kondisi keempat kita akan coba mengubah data, ada data yang salah diinputkan pada Nilai UTS dan Nilai UAS, Nilai UTS 85 diubah menjadi 80 dan Nilai UAS 79 diubah menjadi 89, sebelum itu inputkan U untuk mengubah maka akan ditampilkan daftar nilai tabel dan diminta untuk memasukan nomor yang ingin diubah data nilai -nya. User diminta memasukan kembali data valid yang akan diubah.
+
+kita coba memasukan data berikut :
+- NIM : 312410387
+- Nama : Dafa Maulana
+- Nilai Tugas : 90
+- Nilai UTS : 80
+- Nilai UAS : 89
+
+
+
+
 
 
