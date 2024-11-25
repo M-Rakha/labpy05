@@ -104,6 +104,14 @@ kita coba memasukan data berikut :
 
 Lalu, kita akan coba lihat kembali pada tabel dengan menginputkan L untuk lihat apakah daftar/data nilai sudah berubah sesuai yang sudah diinputkan sebelumnya :
 
+![gambar](https://github.com/M-Rakha/labpy05/blob/6adf8aaa0f1afc1963e47bc43a94110ffb304c1a/Cuplikan%20layar%202024-11-25%20200332.png)
+
+### Case 6 :
+
+Kondisi keenam kita ingin mencari sebuah data nilai seorang mahasiswa namun karena banyak nya data mungkin membuat kita tidak tau dimana letak nya, namun dengan menginputkan C sebagai perintah untuk mencari akan memudahkan user, setelah menginputkan C user diminta memasukan nama yang ingin dicari, setelah sudah maka akan muncul nama tersebut dalam tabel :
+
+
+
 
 
 
