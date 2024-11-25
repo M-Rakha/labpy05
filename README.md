@@ -122,7 +122,11 @@ Kondisi ketujuh, kita mencoba menghapus sebuah data nilai mahasiswa dengan mengi
 
 Setelah dihapus kita akan coba lihat daftar/data nilai mahasiswa yang sudah dihapus pada tabel apakah sudah tidak ada atau masih ada, karena kita hanya menginputkan 1 data nilai saja maka output yang akan tampil adalah sebagai berikut :
 
+![gambar](https://github.com/M-Rakha/labpy05/blob/c14513adfcb6840c661dbe715747a32b352c0701/Cuplikan%20layar%202024-11-25%20201351.png)
 
+### Case 9 :
+
+Jika semua data atau program input sudah selesai semua, user dapat menginputkan K untuk keluar dari progam :
 
 
 
