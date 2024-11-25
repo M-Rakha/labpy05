@@ -116,7 +116,11 @@ Kondisi keenam kita ingin mencari sebuah data nilai seorang mahasiswa namun kare
 
 Kondisi ketujuh, kita mencoba menghapus sebuah data nilai mahasiswa dengan menginputkan H sebagai hapus user diminta memasukan sebuah nomor urut yang akan dihapus data nilai mahasiswa :
 
+![gambar](https://github.com/M-Rakha/labpy05/blob/41df5d2b64f8a6c158806e91b8e53c0ecbb0fa16/Cuplikan%20layar%202024-11-25%20201254.png)
 
+### Case 8 :
+
+Setelah dihapus kita akan coba lihat daftar/data nilai mahasiswa yang sudah dihapus pada tabel apakah sudah tidak ada atau masih ada, karena kita hanya menginputkan 1 data nilai saja maka output yang akan tampil adalah sebagai berikut :
 
 
 
