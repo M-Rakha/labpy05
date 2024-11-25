@@ -66,7 +66,18 @@ Tahap akhir adalah uji coba code program yang sudah dibuat dengan mencoba berbag
 
 Kondisi pertama kita akan coba melihat tabel dengan inputkan L tampa menambahkan data/masih kosong, maka akan ditampilkan isi tabel masih belum ada datanya :
 
+![gambar](https://github.com/M-Rakha/labpy05/blob/2534be3f1b5b61636f7a931fdc5561625494eaf5/Cuplikan%20layar%202024-11-25%20195253.png)
 
+### Case 2 :
+
+Kondisi kedua selanjutnya mencoba menambahkan data nilai mahasiswa pada tabel, dengan menginputkan T untuk menambahkan data nilai.
+
+Tambahkan data nilai :
+- NIM : 312410387
+- Nama : Dafa Maulana
+- Nilai Tugas : 90
+- Nilai UTS : 85
+- Nilai UAS : 79
 
 
 
