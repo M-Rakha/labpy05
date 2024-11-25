@@ -98,7 +98,11 @@ kita coba memasukan data berikut :
 - Nilai UTS : 80
 - Nilai UAS : 89
 
+![gambar](https://github.com/M-Rakha/labpy05/blob/4e56a33aa5eb732cb1fee983ddfd4e65a4152c08/Cuplikan%20layar%202024-11-25%20200650.png)
 
+### Case 5 :
+
+Lalu, kita akan coba lihat kembali pada tabel dengan menginputkan L untuk lihat apakah daftar/data nilai sudah berubah sesuai yang sudah diinputkan sebelumnya :
 
 
 
