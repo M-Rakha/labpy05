@@ -20,4 +20,15 @@ Fungsi ini digunakan untuk menampilkan daftar nilai mahasiswa :
 
 Fungsi ini digunakan untuk menambahkan data nilai mahasiswa ke dalam data_nilai. Langkah-langkahnya, Meminta input dari pengguna untuk NIM, Nama, Nilai Tugas, Nilai UTS, dan Nilai UAS, menghitung nilai akhir dengan bobot (Tugas: 30%, UTS: 35%, UAS: 35%), menambahkan data mahasiswa dalam bentuk dictionary ke list data_nilai. Perintah .append berfungsi untuk menambahkan data/memasukan tambahan data baru ke yang sudah disediakan :
 
+![gambar](https://github.com/M-Rakha/labpy05/blob/36c1e66ba5fef3613451105ab51c4826edfabc8b/Cuplikan%20layar%202024-11-25%20193541.png)
+
+## Step 4 : Fungsi ubah_data
+Fungsi ini digunakan untuk mengubah data mahasiswa berdasarkan nomor yang dipilih menampilkan data mahasiswa dengan lihat_data serta meminta pengguna memilih nomor data yang ingin diubah, hal ini mencakup semua data dari NIM, Nama, Nilai Tugas, Nilai UTS, dan Nilai UAS yang diubah, namun ada 2 kondisi dalam kasus ini :
+
+- Jika nomor tidak valid, tampilkan pesan "Data tidak ditemukan".
+- Jika valid, memperbarui data dengan input baru.
+
+
+
+
 
